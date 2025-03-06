@@ -1,1 +1,1 @@
-# Industrialprojects
+# Industrial projects
